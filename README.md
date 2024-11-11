@@ -50,6 +50,64 @@ Conducted EDA techniques to understand, clean, and visualize the dataset, identi
   - Analysis: Examined and visualized key financial metrics (e.g., revenue, net income) to assess company performance.
   - Model: Built a regression model using financial indicators to predict metrics related to financial health.
 
+# Part Tow Multi Class Classification
+
+# Predictive Maintenance - Deep Learning with PyTorch
+
+This repository contains a Jupyter notebook, predictive-maintenance.ipynb, focused on predictive maintenance using deep learning techniques with PyTorch. The notebook guides you through building and optimizing a deep neural network for a multi-class classification problem.
+
+## Objective
+
+The primary goal of this lab is to become proficient with the PyTorch library for performing classification and regression tasks. The notebook demonstrates building deep neural networks (DNNs) and multi-layer perceptrons (MLPs) to solve a predictive maintenance problem.
+
+## Dataset
+The dataset used for this project is available on Kaggle: Machine Predictive Maintenance Classification Dataset. It contains machine sensor data with the goal of predicting maintenance needs.
+
+## Notebook Workflow
+
+### 1. Data Preprocessing
+
+  - Applied data cleaning techniques and standardized/normalized the dataset for improved model performance.
+
+### 2. Exploratory Data Analysis (EDA)
+
+  - Used various EDA techniques to gain insights into the dataset and visualize relationships between features.
+
+### 3. Data Augmentation
+
+  - Performed data augmentation to balance the dataset and improve the model's ability to generalize.
+
+### 4. Model Architecture
+
+  - Established a deep neural network (DNN) using PyTorch for the multi-class classification task, targeting failure type prediction.
+
+### 5. Hyperparameter Tuning
+
+  - Used the GridSearch tool from the sklearn library to identify optimal hyperparameters such as learning rate, optimizer, number of epochs, and model architecture for better model efficiency.
+
+### 6. Training Visualization
+
+  - Visualized training and validation results, specifically Loss vs. Epochs and Accuracy vs. Epochs, with interpretations of each graph.
+
+### 7. Model Evaluation
+
+  - Calculated performance metrics including accuracy, sensitivity, and F1 score on both training and testing datasets.
+
+### 8. Regularization Techniques
+  
+  - Applied various regularization methods to the model and compared their results with the initial model performance.
+
+## Results
+
+The notebook showcases the effectiveness of the DNN/MLP model in handling multi-class classification for predictive maintenance and provides insights into the benefits of regularization, data augmentation, and hyperparameter optimization.
+
+## Requirements
+
+  - PyTorch
+  - scikit-learn
+  - Pandas
+  - Matplotlib
+
 
 
 
