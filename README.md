@@ -44,6 +44,12 @@ Conducted EDA techniques to understand, clean, and visualize the dataset, identi
   - Analysis: Visualized price trends, computed statistical summaries, and engineered features for deeper insights.
   - Model: Developed a regression model to predict stock price movements based on historical data.
 
+### nyse-prices-adjusted.ipynb
+
+  - Goal: Perform EDA on NYSE price data and develop a DNN regression model.
+  - Analysis: Visualized price trends, computed statistical summaries, and engineered features for deeper insights.
+  - Model: Developed a regression model to predict stock price movements based on historical data.
+
 ### nyse-fundamentals.ipynb
 
   - Goal: Analyze fundamental financial data for companies on the NYSE and build a DNN regression model.
