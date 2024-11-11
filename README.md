@@ -10,7 +10,7 @@ The primary objective of this project is to build proficiency in using the PyTor
 
 ## Dataset
 
-The dataset used is available on Kaggle: [https://www.kaggle.com/datasets/dgawlik/nyse](#New York Stock Exchange Data). It contains historical stock price data and various fundamental indicators for companies listed on the NYSE. This data serves as the basis for both exploratory data analysis and model development.
+The dataset used is available on Kaggle: [New York Stock Exchange Data](https://www.kaggle.com/datasets/dgawlik/nyse). It contains historical stock price data and various fundamental indicators for companies listed on the NYSE. This data serves as the basis for both exploratory data analysis and model development.
 
 ## Project Workflow
 ### Exploratory Data Analysis (EDA)
