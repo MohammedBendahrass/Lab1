@@ -77,7 +77,7 @@ This repository contains a Jupyter notebook, predictive-maintenance.ipynb, focus
 The primary goal of this lab is to become proficient with the PyTorch library for performing classification and regression tasks. The notebook demonstrates building deep neural networks (DNNs) and multi-layer perceptrons (MLPs) to solve a predictive maintenance problem.
 
 ## Dataset
-The dataset used for this project is available on Kaggle: [https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification](Machine Predictive Maintenance Classification Dataset). It contains machine sensor data with the goal of predicting maintenance needs.
+The dataset used for this project is available on Kaggle: [Machine Predictive Maintenance Classification Dataset](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification). It contains machine sensor data with the goal of predicting maintenance needs.
 
 ## Notebook Workflow
 
