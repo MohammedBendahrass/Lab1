@@ -50,6 +50,22 @@ Conducted EDA techniques to understand, clean, and visualize the dataset, identi
   - Analysis: Examined and visualized key financial metrics (e.g., revenue, net income) to assess company performance.
   - Model: Built a regression model using financial indicators to predict metrics related to financial health.
 
+## Requirements
+
+  - Python 3.x
+  - PyTorch
+  - Scikit-Learn
+  - Pandas
+  - Matplotlib
+  - Seaborn
+
+## Usage
+
+  - Clone this repository and open the notebooks.
+  - Follow the workflow in each notebook to replicate the analysis and modeling steps.
+  - Modify parameters as needed to explore specific models or data subsets.
+
+
 # Part Tow Multi Class Classification
 
 # Predictive Maintenance - Deep Learning with PyTorch
@@ -61,7 +77,7 @@ This repository contains a Jupyter notebook, predictive-maintenance.ipynb, focus
 The primary goal of this lab is to become proficient with the PyTorch library for performing classification and regression tasks. The notebook demonstrates building deep neural networks (DNNs) and multi-layer perceptrons (MLPs) to solve a predictive maintenance problem.
 
 ## Dataset
-The dataset used for this project is available on Kaggle: Machine Predictive Maintenance Classification Dataset. It contains machine sensor data with the goal of predicting maintenance needs.
+The dataset used for this project is available on Kaggle: [https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification](Machine Predictive Maintenance Classification Dataset). It contains machine sensor data with the goal of predicting maintenance needs.
 
 ## Notebook Workflow
 
